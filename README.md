@@ -1,8 +1,8 @@
-<img width="1470" alt="screenshot" src="https://github.com/DeekshaTechTinker/Alexa-Weather-App/assets/115879925/57700138-1561-4dad-b895-1b80c2009d5e">
+
 # Alexa-Weather-App
 # Weather App
 
-![Weather App Screenshot](<img width="1470" alt="screenshot" src="https://github.com/DeekshaTechTinker/Alexa-Weather-App/assets/115879925/f221c0de-645f-4d46-af9e-8f5ad67d059d">
+![Weather App Screenshot](<img width="1470" alt="Screen Shot 2023-09-10 at 9 42 01 PM" src="https://github.com/DeekshaTechTinker/Alexa-Weather-App/assets/115879925/ddb4b46d-4cc4-408e-825d-776df4a45666">
 )
 
 
