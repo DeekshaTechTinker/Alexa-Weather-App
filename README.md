@@ -1,7 +1,7 @@
 <img width="1470" alt="screenshot" src="https://github.com/DeekshaTechTinker/Alexa-Weather-App/assets/115879925/f4d83231-453a-4fb9-9109-6d9cce66c17a"># Alexa-Weather-App
 # Weather App
 
-![Weather App Screenshot](![Uploading screenshot.png…]()
+![Weather App Screenshot]
 
 
 This Weather App is a simple web application that allows users to check the current weather conditions for any location around the world.
