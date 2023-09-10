@@ -3,7 +3,7 @@
 # Alexa-Weather-App
 # Weather App
 
-![Weather App Screenshot](<img width="1470" alt="Screen Shot 2023-09-10 at 9 42 01 PM" src="https://github.com/DeekshaTechTinker/Alexa-Weather-App/assets/115879925/ddb4b46d-4cc4-408e-825d-776df4a45666">)
+![Weather App Screenshot]
 
 
 This Weather App is a simple web application that allows users to check the current weather conditions for any location around the world.
