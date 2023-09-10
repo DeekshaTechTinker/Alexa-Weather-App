@@ -3,7 +3,7 @@
 # Alexa-Weather-App
 # Weather App
 
-##Weather App Screenshot
+Weather App Screenshot
 
 
 This Weather App is a simple web application that allows users to check the current weather conditions for any location around the world.
